@@ -23,10 +23,6 @@
     "passcode",
     "component"
   ],
-  "peerDependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
-  },
   "typings": "typings/index.d.ts",
   "devDependencies": {
     "@babel/cli": "7.14.3",
@@ -54,14 +50,9 @@
     "webpack-cli": "3.3.12",
     "webpack-dev-server": "3.11.2"
   },
-  "author": "Devfolio <engineering@devfolio.co> (https://devfolio.co)",
   "license": "MIT",
-  "homepage": "https://devfolioco.github.io/react-otp-input",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devfolioco/react-otp-input"
-  },
-  "bugs": {
-    "url": "https://github.com/devfolioco/react-otp-input/issues"
+    "url": "https://github.com/LaBanHSPO/react-otp-input"
   }
 }
